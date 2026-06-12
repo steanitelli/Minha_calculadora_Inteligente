@@ -1,0 +1,8 @@
+# Olá
+
+# Aqui estão meus comandos utilizados para mudar as perimissões de acesso ao arquivo:
+
+ls -l calculadora.sh   
+chmod 744 calculadora.sh
+./calculadora.sh
+
